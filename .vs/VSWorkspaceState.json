@@ -2,8 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\public",
-    "\\src"
+    "\\public\\tabIcon",
+    "\\src",
+    "\\src\\AdminComponents",
+    "\\src\\assets",
+    "\\src\\assets\\Brands",
+    "\\src\\assets\\Items",
+    "\\src\\assets\\login",
+    "\\src\\assets\\sliderImages"
   ],
-  "SelectedNode": "\\public",
+  "SelectedNode": "\\src\\components\\UpperAnnouncement.jsx",
   "PreviewInSolutionExplorer": false
 }

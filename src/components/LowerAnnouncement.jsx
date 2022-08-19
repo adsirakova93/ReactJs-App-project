@@ -25,7 +25,7 @@ top: -5px;
 export default function LowerAnnouncement() {
     return (
         <Container>
-        <p style={{marginTop:"10px"}}>Big! big!! News : Grab our NYKAA collections at 30% OFF </p>
+        <p style={{marginTop:"10px"}}>Big sale! big sale!! News : Grab our NYX collections at 30% OFF </p>
      </Container>
     )
 }

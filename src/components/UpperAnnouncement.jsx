@@ -21,7 +21,7 @@ color: white;
 export default function UpperAnnouncement() {
     return (
         <Container>
-           <div style={{marginTop:"10px"}}> <p>DIWALI SALE!!! upto 50% OFF</p></div>
+           <div style={{marginTop:"10px"}}> <p>SUMMER SALE!!! upto 50% OFF</p></div>
         </Container>
     )
 }

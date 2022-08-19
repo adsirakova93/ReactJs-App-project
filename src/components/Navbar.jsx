@@ -111,7 +111,7 @@ const [search,setSearch]=useState(value)
              <Wrapper>
              <Link to="/" style={{textDecoration:"none"}}>
                  <Left>
-                     <p style={{textDecoration:"none"}}>MakeYouUp</p>
+                     <p style={{textDecoration:"none"}}>E-store</p>
                  </Left>
                  </Link>
                  <Middle>
