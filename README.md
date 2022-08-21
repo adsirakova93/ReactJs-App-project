@@ -1,6 +1,6 @@
 # E-store React.js Project
 
-## About The Project - Non-technical Description
+## About The Project:
 
 The project is an online platform for shopping cosmetics and makeup, borrowed from the sites of https://makeup.bg/ and https://douglas.bg/.
 This project was created by Anastasia Sirakova for the purposes of React. js Softuni Course Retake.
@@ -32,13 +32,16 @@ These users have access to the following:
 
 ## Private part
 This part of the project is designed for registered users. These users have access to the following:
-
 test login data:
 ![image](https://user-images.githubusercontent.com/47693700/185776323-a8f0dd8f-1057-4a03-adbf-b04d7a5f435c.png)
+An option to log out of the account is added when the user is logged in.
 
 Users panel -> After successfully logging into the site, the customer can shop for the selected products. If he chooses products without logging in, he must log in when trying to complete the order.
 Admin panel -> 
-1. Home -> Main page pointing to the initial appearance of the project. Contains information about the offered goods as well as the possibility to redirect to other pages.
-2. Cart -> Shows the current basket with selected items. The registered users can review and complete the order by going to the payment information section.
-3. Orders -> Here the user can see a list of his orders.
-4. SignOut -> Logout form from the current profile.
+![image](https://user-images.githubusercontent.com/47693700/185776361-42512b25-482a-4ba8-97a6-a0890b24a863.png)
+
+The administrator has additional functions:
+After logging in with administrator data, the site redirects to an information board with a graph of registered users by month, last registered user and orders placed.
+There are additional menus visible only to him:
+1. Products -> possibility to add, correct and delete products.
+2. Users -> possibility to enter, correct and delete users.
