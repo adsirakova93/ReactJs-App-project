@@ -45,3 +45,9 @@ After logging in with administrator data, the site redirects to an information b
 There are additional menus visible only to him:
 1. Products -> possibility to add, correct and delete products.
 2. Users -> possibility to enter, correct and delete users.
+
+Notes:
+The following were used to build the project:
+1. -> study materials from Softuni ReactJs course
+2. -> https://www.youtube.com/watch?v=xz7V4V5sbOU&ab_channel=WouterPostma
+3. -> https://console.firebase.google.com/
