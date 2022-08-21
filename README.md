@@ -22,15 +22,21 @@ It represents the home page of the site with information about the offered produ
 
 These users have access to the following:
 
-1. Home -> Main page pointing to the initial appearance of the project. Contains information about the offered goods as well as the possibility to redirect to other pages.
-2. Cart -> Shows the current basket with selected items. The non-registered users can only review, but without finalizing the purchase.
-3. Orders -> The page opens the Log In form for user login / registration.
-4. Login -> The page opens the Log In form for user login / registration.
-5. Contact-> A page giving contact information as well as the option to sent an email to the admin of the platform.
+1. Explore -> Shows all offered products with the ability to filter and sort by certain criteria.
+2. LogIn -> Login option for registered users.
+3. Register -> Registration form for new users who do not have a registration.
+4. Shopping basket -> displays the products that have been selected by the customer.
+5. Shopping bag -> link to the login menu
+
+![image](https://user-images.githubusercontent.com/47693700/185776243-9ae49d28-83d0-4cab-82a4-405b5d322795.png)
 
 ## Private part
 This part of the project is designed for registered users. These users have access to the following:
 
+test login data:
+
+Users panel -> After successfully logging into the site, the customer can shop for the selected products. If he chooses products without logging in, he must log in when trying to complete the order.
+Admin panel -> 
 1. Home -> Main page pointing to the initial appearance of the project. Contains information about the offered goods as well as the possibility to redirect to other pages.
 2. Cart -> Shows the current basket with selected items. The registered users can review and complete the order by going to the payment information section.
 3. Orders -> Here the user can see a list of his orders.
