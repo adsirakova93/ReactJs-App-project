@@ -48,7 +48,7 @@ export default function Footer() {
                 </Left>
                 <Right>
                 <div><h2 style={{textAlign:"start"}}>Contact Us</h2></div>
-                <div><p><LocationCity/> Varna, Bulgaria</p></div>
+                <div><p><LocationCity/> Radost 6, Varna, Bulgaria</p></div>
                 <div><p><Email/> adsirakova.93@gmail.com</p></div>
                 <div><p><Phone/> +359/ 789-465-321</p></div>
                 </Right>

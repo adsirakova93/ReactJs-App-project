@@ -54,7 +54,7 @@ export default function Order() {
     const getOrder = async () => {
       try {
         const res = await axios.get(
-          `https://e-store.com/order/find/${user.currentUser._id}`,
+            `https://makeyouup.herokuapp.com/order/find/${user.currentUser._id}`,
           {
             headers: {
               token: user.currentUser.token,

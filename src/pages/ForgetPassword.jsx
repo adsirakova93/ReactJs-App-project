@@ -87,7 +87,7 @@ export default function ForgetPassword() {
               console.log(values);
               try {
                 const response = await axios.post(
-                  "https://e-store.com/auth/resetToken",
+                  "https://makeyouup.herokuapp.com/auth/resetToken",
                   {
                     email: values.email,
                   }
