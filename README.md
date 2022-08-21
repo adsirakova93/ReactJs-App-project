@@ -34,6 +34,7 @@ These users have access to the following:
 This part of the project is designed for registered users. These users have access to the following:
 test login data:
 ![image](https://user-images.githubusercontent.com/47693700/185776323-a8f0dd8f-1057-4a03-adbf-b04d7a5f435c.png)
+
 An option to log out of the account is added when the user is logged in.
 
 Users panel -> After successfully logging into the site, the customer can shop for the selected products. If he chooses products without logging in, he must log in when trying to complete the order.
