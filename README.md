@@ -17,7 +17,7 @@ This part of the project is designed for non-registered users.
 It represents the home page of the site with information about the offered products, active promotions and contacts.
 
 ![image](https://user-images.githubusercontent.com/47693700/185776005-9eba3486-5206-42d6-b8f4-619a8c640120.png)
-![image](https://user-images.githubusercontent.com/47693700/185776114-8151ee89-b5c6-4819-ac57-2eea9e3341ad.png)
+![1](https://user-images.githubusercontent.com/47693700/185776155-483a80cf-fe3d-4ef1-977d-a755f5fc2493.jpg)
 
 
 These users have access to the following:
