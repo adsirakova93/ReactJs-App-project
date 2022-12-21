@@ -1,4 +1,4 @@
-# E-store React.js Project
+# E-store React.js Project :)
 
 ## About The Project:
 
